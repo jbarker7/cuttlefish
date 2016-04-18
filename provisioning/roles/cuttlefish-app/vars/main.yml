@@ -4,3 +4,9 @@ private_ssl_key: foo
 google_analytics_code: ""
 secret_key_base: 336a709847e89bc76de5f4e570f4da0538d999128f062388054e3c587e636677ee75701c089a21e58ab3a322372c93fb021074137b8881c594a9c693368fbb36
 devise_secret_key: 23g3hihiegans645ldigihghg3asdginisdn346ginongo23aspoiuwe4841
+skylight_application: ""
+skylight_authentication: ""
+new_relic_license_key: ""
+new_relic_app_name: Cuttlefish
+honeybadger_api_key: ""
+cuttlefish_hash_salt: 792582fa8baa6c3c70ef
