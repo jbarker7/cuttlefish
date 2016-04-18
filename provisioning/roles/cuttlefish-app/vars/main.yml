@@ -2,3 +2,4 @@
 db_password: foo
 private_ssl_key: foo
 google_analytics_code: ""
+secret_key_base: 336a709847e89bc76de5f4e570f4da0538d999128f062388054e3c587e636677ee75701c089a21e58ab3a322372c93fb021074137b8881c594a9c693368fbb36
